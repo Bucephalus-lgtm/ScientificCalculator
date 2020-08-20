@@ -51,13 +51,12 @@
             android:layout_gravity="center_horizontal"
             android:layout_marginLeft="10dp"
             android:layout_marginTop="20dp"
-            android:src="@drawable/love" />
+            android:src="@drawable/mom" />
 
         <androidx.appcompat.widget.AppCompatTextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Dedicated to the love of my life,
-            Miss Alangkita Baruah"
+            android:text="Dedicated to my mom"
             android:textStyle="italic|bold"
             android:textSize="20sp"
             android:textColor="#fff"
